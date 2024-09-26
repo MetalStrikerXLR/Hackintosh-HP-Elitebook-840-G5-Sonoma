@@ -49,7 +49,7 @@ Pointing Stick (Nipple)   |  ✅
 Everything seems to be working except for the Fingerprint reader (Which is not supported by Apple by default)
 
 
-## What's you have to do  💻
+## What you have to do  💻
   
 Type | Info | Status
 :---------|:---------|:----------
