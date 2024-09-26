@@ -3,6 +3,7 @@
 Hackintosh EFI for Hp EliteBook 840-G5 based on OpenCore 1.2.1 running Sonoma 14.7
 
 Based on EFI by jkaninada: https://github.com/jkaninda/Hackintosh-HP-EliteBook-830-G5-OC-Ventura
+
 What is different: Updated a couple of kexts to support sonoma and removed IntelBluetoothInjector kext
 
 
