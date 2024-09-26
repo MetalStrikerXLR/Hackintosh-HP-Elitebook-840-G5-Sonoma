@@ -5,7 +5,9 @@ Hackintosh EFI for Hp EliteBook 840-G5 based on OpenCore 1.2.1 running Sonoma 14
 Based on EFI by jkaninada: https://github.com/jkaninda/Hackintosh-HP-EliteBook-830-G5-OC-Ventura
 What is different: Updated a couple of kexts to support sonoma and removed IntelBluetoothInjector kext
 
+
 ![Sonoma-preview](https://github.com/user-attachments/assets/8f7073de-5a85-4c96-a27c-93b2e442af9d)
+
 
 ## Hardware Specs  💻
 
@@ -45,5 +47,13 @@ Camera   |  ✅
 Pointing Stick (Nipple)   |  ✅  
 
 Everything seems to be working except for the Fingerprint reader (Which is not supported by Apple by default)
+
+
+## What's you have to do  💻
+  
+Type | Info | Status
+:---------|:---------|:----------
+SMBIOS Settings  | With [GenSMBIOS] you should definitely generate and set your SMBIOS settings and ROM value for iCloud and Apple services. ROM value is your ethernet MAC address. Be sure your ethernet is en0 in Hackintool. |  ⚠️
+
 
 README template from: https://github.com/yusufklncc
